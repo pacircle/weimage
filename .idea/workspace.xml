@@ -21,8 +21,13 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="weuser1.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="weuser1.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weuser1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="super1.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/super1.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -41,7 +46,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="855" />
+    <option name="x" value="328" />
     <option name="y" value="23" />
     <option name="width" value="1174" />
     <option name="height" value="823" />
@@ -105,15 +110,15 @@
       <workItem from="1548941518900" duration="453000" />
       <workItem from="1549378054308" duration="434000" />
       <workItem from="1549618066706" duration="161000" />
-      <workItem from="1549618266455" duration="1229000" />
+      <workItem from="1549618266455" duration="1965000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2878000" />
+    <option name="totallyTimeSpent" value="3614000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="855" y="23" width="1174" height="823" extended-state="0" />
+    <frame x="328" y="23" width="1174" height="823" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24978317" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -145,6 +150,9 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/weuser1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/super1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
